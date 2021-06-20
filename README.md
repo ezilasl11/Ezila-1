@@ -1,7 +1,7 @@
  # Ezila Bot
  
 <p align="center">
-  <img src="https://telegra.ph/file/ee2e8678b020ebbcfa0c7.jpg">
+  <img src="https://telegra.ph/file/0e7b0ba83bfb76018f36a.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
